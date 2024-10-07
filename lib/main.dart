@@ -4,6 +4,9 @@ void main() {
   runApp(const MainApp());
 }
 
+// Features
+// Aufgaben anzeigen lassen + lösen ( Qiuz)
+
 class MainApp extends StatelessWidget {
   const MainApp({super.key});
 
